@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="chongxin"
+  id="myeclipse.1385686033906"
+  context-root="/chongxin"
+  j2ee-spec="5.0"
+  archive="chongxin.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
